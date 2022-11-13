@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Truffle TV Channel Points Claimer
-// @namespace    https://greasyfork.org/users/649
+// @namespace    https://www.webuctive.com
 // @version      1.0
 // @description  Auto claim point on Truffle TV enabled streams.
 // @author       JustSxm, Adrien Pyke (Original Author)
